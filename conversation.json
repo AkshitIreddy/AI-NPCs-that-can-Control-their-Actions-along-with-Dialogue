@@ -1,0 +1,59 @@
+{
+    "conversations": [
+        {
+            "character": "Hadley Smith",
+            "dialogue": "Hello Ettore, how fares the battlefield today?",
+            "action": "Idle"
+        },
+        {
+            "character": "Ettore Johnson",
+            "dialogue": "I'm in my element, Hadley, ever ready for the clash of steel and valor. And you, amidst the serene bloom of nature's grace?",
+            "action": "Idle"
+        },
+        {
+            "character": "Hadley Smith",
+            "dialogue": "In the embrace of enchantment, my friend. The world is painted with the colors of harmony.",
+            "action": "Idle"
+        },
+        {
+            "character": "Player",
+            "dialogue": "Hi Ettore, Can you show me how to do a Backflip?",
+            "action": "Idle"
+        },
+        {
+            "character": "Ettore Johnson",
+            "dialogue": "Of course, my friend. Here, let me show you.",
+            "action": "Backflip"
+        },
+        {
+            "character": "Player",
+            "dialogue": "Hi Hadley, Can you show me your favorite spell?",
+            "action": "Idle"
+        },
+        {
+            "character": "Hadley Smith",
+            "dialogue": "With great pleasure, my friend. Behold, the power of Floromagia Elysium!",
+            "action": "Floromagia Elysium"
+        },
+        {
+            "character": "Player",
+            "dialogue": "Ettore, can you show me some of your fight moves?",
+            "action": "Idle"
+        },
+        {
+            "character": "Ettore Johnson",
+            "dialogue": "Of course, my friend. Here, let me show you.",
+            "action": "Combat Moves"
+        },
+        {
+            "character": "Player",
+            "dialogue": "Hadley can you show me another spell?",
+            "action": "Idle"
+        },
+        {
+            "character": "Hadley Smith",
+            "dialogue": "With great pleasure, my friend. Behold, the power of Musica Harmoniosa Creatus!",
+            "action": "Musica Harmoniosa Creatus"
+        }
+    ]
+}

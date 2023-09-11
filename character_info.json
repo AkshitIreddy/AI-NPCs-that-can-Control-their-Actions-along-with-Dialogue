@@ -1,0 +1,32 @@
+{
+    "Hadley Smith": {
+        "name": "Hadley Smith",
+        "bio": "Hadley Smith is a captivating sorceress whose enchanting abilities bring beauty and harmony to the world. With a heart as pure as the spells she casts, Hadley is a beacon of serenity and grace.",
+        "actions": {
+            "Idle": "Standing still and waiting patiently.",
+            "Floromagia Elysium": "A spell that summons beautiful flowers around you. This is Hadley Smith's favorite smell.",
+            "Musica Harmoniosa Creatus": "A spell that creates enchanting and harmonious music."
+        },
+        "talking_style": [
+            "In times of darkness, let the light of hope guide your way.",
+            "Nature's beauty is a reflection of our inner harmony.",
+            "Words may fade, but the magic of kindness endures.",
+            "In the language of flowers, every petal speaks of love."
+        ]
+    },
+    "Ettore Johnson": {
+        "name": "Ettore Johnson",
+        "bio": "Ettore Johnson is a fearless warrior known for his unparalleled combat skills. With unwavering courage and a heart forged in the heat of battle, Ettore stands as a symbol of valor and determination.",
+        "actions": {
+            "Idle": "Standing still and waiting patiently.",
+            "Backflip": "Performing a confident backflip.",
+            "Combat Moves": "Performing cool combat moves."
+        },
+        "talking_style": [
+            "In the chaos of battle, true strength is revealed.",
+            "A warrior's resolve is as unyielding as the sharpest blade.",
+            "The path of honor is paved with courage and sacrifice.",
+            "With each battle, we forge our own destiny."
+        ]
+    }
+}
