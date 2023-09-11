@@ -10,6 +10,7 @@ The Repository contains the python script and the demo.umap which you can import
 ## Video Demo ✨ ☃️
 
 Link: https://www.linkedin.com/posts/akshit-ireddy_generativeai-ai-gaming-activity-7107049969966059520-C-WC?utm_source=share&utm_medium=member_desktop
+
 Explanation: https://medium.com/@akshit.r.ireddy/how-i-made-ai-npcs-that-can-control-their-actions-along-with-dialogue-7f7a45adc95e
 
 ## Tools 🚀 🔧
