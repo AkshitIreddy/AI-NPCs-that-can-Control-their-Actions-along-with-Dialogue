@@ -4,6 +4,9 @@ Imagine a game where AI-powered Non-Player Characters (NPCs) can not only respon
 
 The Repository contains the python script and the demo.umap which you can import in a level in unreal to look at the level blueprint and see the logic. 📂 There are a couple of other files as well that can help you understand better. 📚 If you find this repository helpful, consider giving it a star! ⭐
 
+![thumbnail](https://github.com/AkshitIreddy/AI-NPCs-that-can-Control-their-Actions-along-with-Dialogue/assets/90443032/13356579-4ad0-4db6-beaf-66cb62176678)
+
+
 ## Video Demo ✨ ☃️
 
 
