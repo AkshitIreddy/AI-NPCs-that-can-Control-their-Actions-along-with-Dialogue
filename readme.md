@@ -13,6 +13,8 @@ Link: https://www.linkedin.com/posts/akshit-ireddy_generativeai-ai-gaming-activi
 
 Explanation: https://medium.com/@akshit.r.ireddy/how-i-made-ai-npcs-that-can-control-their-actions-along-with-dialogue-7f7a45adc95e
 
+Discord Server: https://discord.gg/CfK7DCWKwy
+
 ## Tools 🚀 🔧
 - 🤖 [Cohere's Language Models and Embedding Models](https://cohere.com/) 
 - 🗣️ [ElevenLabs](https://elevenlabs.io/)
